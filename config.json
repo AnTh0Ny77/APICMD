@@ -1,0 +1,14 @@
+{
+    "urls": {
+        "base": "/APICMD"
+    }, 
+    "database": {
+        "host":  "localhost", 
+        "user": "root",
+        "name" : "devis",
+        "pass" : ""
+    },
+    "security": {
+        "app_secret" : "sec!ReT423*&"
+    }
+}
